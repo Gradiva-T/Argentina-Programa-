@@ -1,3 +1,3 @@
 # Argentina-Programa-
 
-Repositorio creado para las entregas de Argentina Programa 3era Edicion.
+Repositorio creado para la entrega del proyecto Front-End de Argentina Programa
